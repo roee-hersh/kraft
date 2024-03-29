@@ -1,4 +1,4 @@
-package storage
+package coordinator
 
 import (
 	"encoding/json"
